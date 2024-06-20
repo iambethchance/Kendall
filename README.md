@@ -1,5 +1,5 @@
 # Kendall
-We are aiming for roughly 40 hours work on CourseKata related research unless we can find more money.  You are going to look into the LSAMP program (https://lsamp.calpoly.edu/apply-lsamp) but that would be for fall.  I wrote a plea to Jane but doubt there is much she can do.
+We are aiming for roughly 40 hours work on CourseKata related research unless we can find more money.  You are going to look into the LSAMP program (https://lsamp.calpoly.edu/apply-lsamp) but that would be for fall.  I wrote a plea to Jane but doubt there is much she can do. (Her reply was just a repeat)
 
 CourseKata tasks
 -	Reminder: ISI refers to the text we use in Stat 217/218 and ISCAM refers to the text we use in Stat 301. We have complete control over ISCAM but are also exploring different approaches for online materials in ISI.  Also: Sinem is teaching both Stat 217 and 218 this summer, mostly with ISI, and might be willing to participate in any mini-experiments and/or we could try for focus groups.
