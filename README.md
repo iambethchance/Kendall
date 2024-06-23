@@ -6,10 +6,16 @@ CourseKata tasks
 -	Report/recommendations from the focus group
 -	Report/recommendations from the end of course survey
 -	Review of Desmos/online labs/zyBooks: what are the essential features?
-o	Example Desmos activities for ISI https://teacher.desmos.com/collection/652078a1cd5bd54530b84368
-o	Example lab activities for ISCAM https://www.rossmanchance.com/iscam3/labs.html
-o	zyBooks
-o	Watch recording of Robin Lock’s talk for the portion on ebooks (e.g., need to be searchable, need to be able to take notes, provide instant feedback) – I have a note that that discussion was about 1:05 but I think that was raw time, not time into the presentation, maybe about 2/3 of the way?
+
+  --	Example Desmos activities for ISI https://teacher.desmos.com/collection/652078a1cd5bd54530b84368
+
+  --	Example lab activities for ISCAM https://www.rossmanchance.com/iscam3/labs.html
+      -- Update: Jotform version  https://www.jotform.com/202386005521142
+
+  --	zyBooks
+
+- Watch recording of Robin Lock’s talk for the portion on ebooks (e.g., need to be searchable, need to be able to take notes, provide instant feedback) – I have a note that that discussion was about 1:05 but I think that was raw time, not time into the presentation, maybe about 2/3 of the way?  6/23: His slides are now posted and the list on the slides is: table of contents, search, take notes, make flashcards, hyperlinks, real page numbers, links to video solutions, highligher, read aloud.
+
 o	Worth digging up my old online course? I could send you the senior project report on setting it up?
 
 Masters tasks for now
