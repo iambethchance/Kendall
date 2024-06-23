@@ -14,7 +14,7 @@ CourseKata tasks
 
   --	zyBooks
 
-- Watch recording of Robin Lock’s talk for the portion on ebooks (e.g., need to be searchable, need to be able to take notes, provide instant feedback) – I have a note that that discussion was about 1:05 but I think that was raw time, not time into the presentation, maybe about 2/3 of the way?  6/23: His slides are now posted and the list on the slides is: table of contents, search, take notes, make flashcards, hyperlinks, real page numbers, links to video solutions, highligher, read aloud.
+- Watch recording of Robin Lock’s talk for the portion on ebooks (e.g., need to be searchable, need to be able to take notes, provide instant feedback) – I have a note that that discussion was about 1:05 but I think that was raw time, not time into the presentation, maybe about 2/3 of the way?  6/23: His slides are now posted and the list on the slides is: table of contents, search, take notes, make flashcards, hyperlinks, real page numbers, links to video solutions, highligher, read aloud. For e-homework, the built in tolerances, algorithmic generating questions, links for assistance (hints, solution) and submit answer/immediate feedback.
 
 o	Worth digging up my old online course? I could send you the senior project report on setting it up?
 
