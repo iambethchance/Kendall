@@ -18,6 +18,8 @@ CourseKata tasks
 
 o	Worth digging up my old online course? I could send you the senior project report on setting it up?
 
+- Watch this video www.rossmanchance.com/iscam3/videos/example1.1.mp4 and see whether you think something like this would be helpful and what are the minimum "frills" that would need to be added...
+- 
 Masters tasks for now
 -	Read the attitudes articles?
 -	Read the TAS article on statistical thinking?
