@@ -19,7 +19,14 @@ CourseKata tasks
 o	Worth digging up my old online course? I could send you the senior project report on setting it up?
 
 - Watch this video www.rossmanchance.com/iscam3/videos/example1.1.mp4 and see whether you think something like this would be helpful and what are the minimum "frills" that would need to be added...
-- 
+
+  Some students reflecting on their experiences in a similar course/best instructional practices.  Summarize?
+[Memo Meagan and Lauren Instructional practices.docx](https://github.com/user-attachments/files/16036874/Memo.Meagan.and.Lauren.Instructional.practices.docx)
+[Hannah A InstPract Memo.docx](https://github.com/user-attachments/files/16036873/Hannah.A.InstPract.Memo.docx)
+[Jdyn_Stu_Inst_Prac_Interview_Memo.docx](https://github.com/user-attachments/files/16036872/Jdyn_Stu_Inst_Prac_Interview_Memo.docx)
+[Kayla Inst Pract Memo.docx](https://github.com/user-attachments/files/16036871/Kayla.Inst.Pract.Memo.docx)
+
+
 Masters tasks for now
 -	Read the attitudes articles?
 -	Read the TAS article on statistical thinking?
@@ -29,3 +36,6 @@ o	Tuesday, June 18, 2024 | 4:00 - 4:30 pm ET
 o	Presented by: Chelsey Legacy (University of Minnesota) and Pablo Vivas Corrales (University of Minnesota)
 o	 Abstract: In this June edition of the JSDSE/CAUSE webinar series, we highlight the 2024 article The Teaching of Introductory Statistics: Results of a National Survey. The authors describe their use of the updated Statistics Teaching Inventory (STI) to examine the current state of the curricular and instructional practices being used by U.S.-based, college-level introductory statistics instructors. They explore the extent to which instructors report that their introductory statistics courses are aligned with recommended practices as outlined by the 2016 GAISE College Report. Data were collected from a sample of college-level U.S.-based, college-level introductory statistics instructors. Results based on 228 usable responses indicated that instructors, by-and-large, tended to be following the GAISE recommendations, especially related to content. However, courses may not yet be aligned with newer content recommendations (e.g., provide students opportunities to work with multivariate data), and there is still a large percentage of instructors that are not embracing student-oriented pedagogies and assessment methods.
 o	Article Link: https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2333732
+
+
+
