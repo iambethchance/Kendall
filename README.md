@@ -26,7 +26,7 @@ o	Worth digging up my old online course? I could send you the senior project rep
 [Jdyn_Stu_Inst_Prac_Interview_Memo.docx](https://github.com/user-attachments/files/16036872/Jdyn_Stu_Inst_Prac_Interview_Memo.docx)
 [Kayla Inst Pract Memo.docx](https://github.com/user-attachments/files/16036871/Kayla.Inst.Pract.Memo.docx)
 
-
+  I used to have a "[do it yourself glossary]([url](https://www.oreilly.com/library/view/workshop-statistics-discovery/9780470542040/48-appendix-a.html))". Could we "modernize" that and would it be more helpful than our online glossary?
 Masters tasks for now
 -	Read the attitudes articles?
 -	Read the TAS article on statistical thinking?
