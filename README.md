@@ -1,4 +1,50 @@
 # Kendall
+
+1) Improvements to Stat 414.
+   -- Feedback from fall 2024
+   ---- Specific questions I have
+   ------  How did the qmd files work out?  Improvements?
+   ----------- But now too "disconnected" from lecture? How improve the "organization"? How make better use of the text?
+   ------  Projects (term long? enough guidance in dataset section? presentations? due date?)
+   ------  Better integration of "review" material? Timing of exams (one or two exams?)?  How make sure folks don't fall behind early?
+   ------  Should I give students more time to work on things and collect their work (completion?)?
+   ---------- " I found that days when we went through the handouts together as a class were more useful versus working on it in smaller groups/alone."
+   ------ How make better use of office hours?
+   ---------- Discord?
+   -- Testing out of new lab activities
+3) Canvas compliance
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We are aiming for roughly 40 hours work on CourseKata related research unless we can find more money.  You are going to look into the LSAMP program (https://lsamp.calpoly.edu/apply-lsamp) but that would be for fall.  I wrote a plea to Jane but doubt there is much she can do. (Her reply was just a repeat)
 
 CourseKata tasks
