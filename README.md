@@ -2,7 +2,7 @@
 
 1) Improvements to Stat 414.
    <ul><li> Feedback from fall 2024</li>
-   <ul><li>Specific questions I have:</li>
+   <ul><li>Specific questions I have:</li> https://www.rossmanchance.com/chance/stat414F24/lectures.html
    <ul><li>How did the qmd files work out?  Improvements?</li>
    <li>But now too "disconnected" from lecture? How improve the "organization"? How make better use of the text?</li>
    <li>  Projects (term long? enough guidance in dataset section? presentations? due date?)</li>
