@@ -1,17 +1,18 @@
 # Kendall
 
 1) Improvements to Stat 414.
-   -- Feedback from fall 2024
-   ---- Specific questions I have
-   ------  How did the qmd files work out?  Improvements?
-   ----------- But now too "disconnected" from lecture? How improve the "organization"? How make better use of the text?
-   ------  Projects (term long? enough guidance in dataset section? presentations? due date?)
-   ------  Better integration of "review" material? Timing of exams (one or two exams?)?  How make sure folks don't fall behind early?
-   ------  Should I give students more time to work on things and collect their work (completion?)?
-   ---------- " I found that days when we went through the handouts together as a class were more useful versus working on it in smaller groups/alone."
-   ------ How make better use of office hours?
-   ---------- Discord?
-   -- Testing out of new lab activities
+   <ul><li> Feedback from fall 2024</li>
+   <ul><li>Specific questions I have:</li>
+   <ul><li>How did the qmd files work out?  Improvements?</li>
+   <li>But now too "disconnected" from lecture? How improve the "organization"? How make better use of the text?</li>
+   <li>  Projects (term long? enough guidance in dataset section? presentations? due date?)</li>
+   <li> Better integration of "review" material? Timing of exams (one or two exams?)?  How make sure folks don't fall behind early?</li> 
+   <li>  Should I give students more time to work on things and collect their work (completion?)?</li>
+   <ul><li>" I found that days when we went through the handouts together as a class were more useful versus working on it in smaller groups/alone."</li></ul>
+   <li> How make better use of office hours?</li>
+   <ul><li> Discord?</li></ul></ul></ul>
+   <li> Testing out of new lab activities</li>
+   </ul>
 2) analysis of "quiz 1" from stat 466?
 3) Help on 414 during term?
 4) Canvas compliance
