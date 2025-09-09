@@ -11,6 +11,7 @@
    <ul><li>" I found that days when we went through the handouts together as a class were more useful versus working on it in smaller groups/alone."</li></ul>
    <li> How make better use of office hours?</li>
    <ul><li> Discord?</li></ul></ul></ul>
+      <li> What to take out? Logistic? But several use for project </li>
    <li> Testing out of new lab activities</li>
    </ul>
 2) analysis of "quiz 1" from stat 466?
