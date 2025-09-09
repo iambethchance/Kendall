@@ -15,8 +15,9 @@
    <li> Testing out of new lab activities</li>
    </ul>
 2) analysis of "quiz 1" from stat 466?
-3) Help on 414 during term?
-4) Canvas compliance
+   - See attached files - the summary of spring 2024 results, an example of how I coded the 2024 results in the excel file, and the deidentified 2025 responses.  Let me know if we need to discuss in more detail before you begin!
+4) Help on 414 during term?
+5) Canvas compliance
     https://canvassupport.calpoly.edu/accessible-courses
    •	Accessibility & Universal Design for All 
 o	Using the Canvas RCE to Create Accessible Content
