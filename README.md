@@ -17,6 +17,16 @@
 2) analysis of "quiz 1" from stat 466?
 3) Help on 414 during term?
 4) Canvas compliance
+    https://canvassupport.calpoly.edu/accessible-courses
+   •	Accessibility & Universal Design for All 
+o	Using the Canvas RCE to Create Accessible Content
+o	Embedding Accessible Video
+•	Accessible STEM Resources
+•	Video streaming systems (OneDrive, YouTube) that provide captioning
+•	Access4All (NEW - starting July 1, 2025)
+•	Using Access4All
+•	How to add ALT Descriptions to Images
+
    
 ----------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------
